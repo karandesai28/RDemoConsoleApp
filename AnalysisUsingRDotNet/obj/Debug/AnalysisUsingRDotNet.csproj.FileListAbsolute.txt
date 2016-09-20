@@ -1,0 +1,12 @@
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\AnalysisUsingRDotNet.exe.config
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\obj\Debug\AnalysisUsingRDotNet.csprojResolveAssemblyReference.cache
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\AnalysisUsingRDotNet.exe
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\AnalysisUsingRDotNet.pdb
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\DynamicInterop.dll
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\RDotNet.dll
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\RDotNet.NativeLibrary.dll
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\DynamicInterop.xml
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\RDotNet.xml
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\bin\Debug\RDotNet.NativeLibrary.xml
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\obj\Debug\AnalysisUsingRDotNet.exe
+D:\Karan\Projects\AnalysisUsingRDotNet\AnalysisUsingRDotNet\obj\Debug\AnalysisUsingRDotNet.pdb
